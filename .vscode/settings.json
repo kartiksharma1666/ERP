@@ -1,0 +1,8 @@
+{
+    "vscode-pets.position": "explorer",
+    "vscode-pets.theme": "forest",
+    "vscode-pets.petSize": "large",
+    "vscode-pets.petColor": "gray",
+    "vscode-pets.petType": "rubber-duck",
+    "python.formatting.provider": "black"
+}

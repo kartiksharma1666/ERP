@@ -1,0 +1,77 @@
+/* CAROUSEL */
+
+#carousel-image{
+height: 1000px;
+width: 100%;
+object-fit: contain;
+}
+
+/* CAROUSEL END */
+
+.card img{
+    height: 350px;
+}
+.card {
+    transition: transform 0.2s ease;
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+    border-radius: 0;
+    border: 0;
+    margin-bottom: 1.5em;
+  }
+  .card:hover {
+    transform: scale(1.08);
+  }
+
+/* PROFILE */
+
+.prflcontainer{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+#profile_img img {
+  height: 200px;
+  width: 200px;
+}
+
+.image{
+  position: relative;
+}
+
+.info{
+  padding-left: 100px;
+  position: relative;
+}
+
+.info p{
+  font-style: bold;
+}
+
+/* PROFILE END */
+
+
+
+/* ABOUT PAGE   */
+.abt-table{
+  font-size: 16px;
+  /* border: 2px solid black;
+  border-radius: 10px; */
+}
+
+.abt-table td{
+  padding-left: 30px;
+  padding-right: 40px;
+  /* border: 2px solid black; */
+}
+
+.abt-table th{
+  padding-left: 20px;
+  /* border: 2px solid black; */
+}
+
+.abtimg{
+  border-radius: 30px;
+}
+
+/* ABOUT PAGE  END */
